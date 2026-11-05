@@ -17,3 +17,7 @@ Hashes SHA-256 do registro original:
 Cúbito 14,3 cm · proporção φ · célula 2,5 × 2,5 cm · diodo 1N34A · LED · base de cobre. Ignição prevista pós-cura.
 
 Licença: CC BY-SA 4.0 (registros e fotos) · v1.0 · 24/11/2026 · [← organização](../README.md)
+
+---
+**Natureza do material:** ficção especulativa e método de investigação aberta. Não é instrução de engenharia pronta nem orientação de saúde; quem aplica aplica por sua conta — e registra, como manda o cânon: previsão antes, nulo lastreado depois.
+
